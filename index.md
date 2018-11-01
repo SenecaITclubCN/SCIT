@@ -4,31 +4,31 @@
 
 [^_^]:  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[^_^]:  ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[^_^]:  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[^_^]:  ```markdown
+[^_^]:  Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[^_^]:  # Header 1
+[^_^]:  ## Header 2
+[^_^]:  ### Header 3
 
-- Bulleted
-- List
+[^_^]:  - Bulleted
+[^_^]:  - List
 
-1. Numbered
-2. List
+[^_^]:  1. Numbered
+[^_^]:  2. List
 
-**Bold** and _Italic_ and `Code` text
+[^_^]:  **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[^_^]:  [Link](url) and ![Image](src)
+[^_^]:  ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[^_^]:  For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[^_^]:  ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SenecaITclubCN/SCIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
